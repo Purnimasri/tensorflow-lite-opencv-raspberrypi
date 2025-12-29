@@ -1,0 +1,20 @@
+Object Classification on Raspberry Pi
+Project Description
+
+This project focuses on real-time object detection using TensorFlow Lite and OpenCV on a Raspberry Pi. It employs the COCO SSD MobileNet model for efficient object recognition with live camera input.
+
+Tools Used
+
+TensorFlow Lite
+
+OpenCV
+
+Features
+
+Real-time Object Detection: Utilized the COCO SSD MobileNet model for detecting multiple objects from live camera input.
+
+Optimized for Raspberry Pi: Configured for efficient performance on low-power devices.
+
+Virtual Environment Setup: Configured a virtual environment on the Raspberry Pi to manage dependencies and ensure smooth execution.
+
+Edge Device Optimization: Optimized model performance for deployment on low-power edge devices.
